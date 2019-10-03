@@ -1,6 +1,6 @@
 [package]
 name = "rfc2047"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Vincent Breitmoser <look@my.amazin.horse>", "Nora Widdecke <mail@nora.pink>"]
 edition = "2018"
 license = "MIT"
