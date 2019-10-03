@@ -1,0 +1,8 @@
+[package]
+name = "rfc2047"
+version = "0.1.0"
+authors = ["Vincent Breitmoser <look@my.amazin.horse>"]
+edition = "2018"
+
+[dependencies]
+# no deps! woop woop
